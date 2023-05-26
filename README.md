@@ -1,1 +1,3 @@
-# omow
+# Open Mower OMOW
+### An open source 3d printable robotic lawnmower.
+The aim of this project is to provide the design for an open source mower that even the lay person can put together. We aim for something that is easy and just works. This means minimal soldering, minimal tweaking of 3d models, simple assembly, and overall simplicity in design and electrical components. Of course you're welcome to tinker with the design and we hope if you make improvements, then you'll contribute them back to the project.
